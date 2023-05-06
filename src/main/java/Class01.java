@@ -8,6 +8,7 @@ public class Class01 {
         //v4 kısa yoldan commit
         //v5 kısa yoldan commit
         // HADİ EKLE UNU FDA V6
+        //hadi bu olsun 7
 
 
 
