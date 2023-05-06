@@ -7,6 +7,7 @@ public class Class01 {
         System.out.println("v3 kodlari..."); //V3
         //v4 kısa yoldan commit
         //v5 kısa yoldan commit
+        // HADİ EKLE UNU FDA V6
 
 
 
