@@ -11,6 +11,7 @@ public class Class01 {
         //hadi bu olsun 7
         // olsun version 8
         //GitHub degisiklikleri
+        //Local'den sevgilerle...
 
 
 
